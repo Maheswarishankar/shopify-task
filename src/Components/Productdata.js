@@ -36,7 +36,7 @@ export const Productdata = ({ count, setCount }) => {
             productName: "Popular item",
             salesEnabler: false,
             priceEnabler: false,
-            price: "$40",
+            price: "$40.00",
             ratingEnabler: true,
 
         },
@@ -71,7 +71,7 @@ export const Productdata = ({ count, setCount }) => {
             productImage: "",
             productName: "Sales item",
             salesEnabler: false,
-            price: "$40",
+            price: "$40.00",
             ratingEnabler: true,
 
         },
